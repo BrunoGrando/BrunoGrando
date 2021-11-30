@@ -1,5 +1,5 @@
 ### 👋 Hi, im Bruno!
-## Just starting my life in programming.
+#### Just starting my life in programming.
 
 <!--
 **BrunoGrando/BrunoGrando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
